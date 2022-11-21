@@ -1,0 +1,52 @@
+h1{
+  text-align: center;
+  }
+
+h2{
+  text-decoration: underline;
+  font-size: 30px;
+  color: maroon;
+  display: flex;
+  justify-content: center;
+}
+
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2OmD1D1RaGC5PgWsLZxJZyFdN49KuZceeQ&usqp=CAU");
+  background-color: #cccccc;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table{
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  border: 2px solid black;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+td{
+  font-size: 80px;
+  }
+
+#rules{
+  font-weight: bold;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  }
+
+#bottom{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#restart{
+  display: flex;
+  justify-content: center;
+}
